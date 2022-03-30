@@ -1,0 +1,16 @@
+package sec2;
+
+public class DoubleForEx2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		int v;
+		for(v=0; v<=5; v++) {
+			System.out.println(v);
+		}
+		
+	}
+
+}
