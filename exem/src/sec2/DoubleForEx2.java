@@ -16,6 +16,6 @@ public class DoubleForEx2 {
 
 		
 		//n번째 줄은 n개가 출력
-		중
+		
 }
 }

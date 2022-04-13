@@ -23,7 +23,7 @@ public class Ex1 {
 		int students = 30;
 		
 		//학생 한 명이 가지는 연필 수
-		int pencilsperstudent = (pencils/student) ;
+		int pencilsperstudent = (pencils/students) ;
 		System.out.println(pencilsperstudent);	
 		
 		//남은 연필 수
